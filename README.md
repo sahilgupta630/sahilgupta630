@@ -31,7 +31,7 @@
 ### 🧰 Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,bootstrap,mongodb" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" title="LangChain (Python-based)"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40"/>
 </p>
 
@@ -48,7 +48,7 @@
 - **Data Structures & Algorithms (DSA)**
 - **Object-Oriented Programming (OOP)**
 - **Web Application Development**
-- - **Operating System**
+- **Operating System**
 - **Database Management Systems (DBMS)**
 - **Retrieval-Augmented Generation (RAG)**
 
