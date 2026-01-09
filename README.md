@@ -3,8 +3,7 @@
 🎓 **B.Tech (Hons.) Mechanical Engineering** @ IIT Kharagpur  
 💻 **Minor in Computer Science & Engineering**  
 🤖 **Micro Specialization in Artificial Intelligence & Applications**  
-
-🚀 Competitive Programmer | Full-Stack Developer | AI/ML Enthusiast  
+🚀 **Competitive Programmer | Full-Stack Developer | AI/ML Enthusiast**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 
@@ -18,7 +17,7 @@
 
 🌱 Actively learning more about System Architecture, Operating System, DevOps workflows, and building scalable, production-ready backends.
 
-- 🏆 Codeforces **Expert (1840+)** | CodeChef **4★ (1830+)**
+🏆 Codeforces **Expert (1840+)** | CodeChef **4★ (1830+)**
 
 ---
 
@@ -62,17 +61,8 @@ Retrieval-Augmented Generation (RAG)
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 -  Email: **guptasahilkumar783@gmail.com**
--  LinkedIn: https://www.linkedin.com/in/sahil-gupta-904332293/
--  Instagram: https://www.instagram.com/sa.hil_005/
+-  LinkedIn: **https://www.linkedin.com/in/sahil-gupta-904332293/**
+-  Instagram: **https://www.instagram.com/sa.hil_005/**
