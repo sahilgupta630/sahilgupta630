@@ -5,8 +5,6 @@
 🤖 **Micro Specialization in Artificial Intelligence & Applications**  
 🚀 **Competitive Programmer | Full-Stack Developer | AI/ML Enthusiast**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
 ---
 
 ## 👨‍💻 About Me
