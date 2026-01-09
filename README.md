@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hey there 👋 I'm Sahil Gupta
 
-<!--
-**sahilgupta630/sahilgupta630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech (Hons.) Mechanical Engineering** @ IIT Kharagpur  
+💻 **Minor in Computer Science & Engineering**  
+🤖 **Micro Specialization in Artificial Intelligence & Applications**  
 
-Here are some ideas to get you started:
+🚀 Competitive Programmer | Full-Stack Developer | AI/ML Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+## 👨‍💻 About Me
+
+🔭 Currently working on full-stack and AI-driven projects using React.js, Node.js, Express.js, FastAPI, MongoDB, and LangChain, with a strong focus on scalable backend systems and real-world problem solving.
+
+🤝 Looking to collaborate on projects involving Web Applications, AI/ML systems, RAG-based assistants, developer platforms, competitive programming tools, or backend-heavy applications.
+
+🌱 Actively learning more about System Architecture, Operating System, DevOps workflows, and building scalable, production-ready backends.
+
+- 🏆 Codeforces **Expert (1840+)** | CodeChef **4★ (1830+)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web Languages
+C | C++ | Python | JavaScript | SQL | HTML | CSS
+
+---
+
+### 🧰 Frameworks & Libraries
+C++ STL  
+React.js  
+Node.js  
+Express.js  
+FastAPI  
+Bootstrap  
+LangChain  
+Streamlit  
+
+---
+
+### ⚙️ Tools & Platforms
+Git  
+GitHub  
+GitHub Actions  
+Docker Compose  
+VS Code  
+Arduino IDE  
+Postman  
+Figma  
+
+---
+
+### 🧠 Core Computer Science Skills
+Data Structures & Algorithms (DSA)  
+Object-Oriented Programming (OOP)  
+Web Application Development  
+Database Management Systems (DBMS)  
+Retrieval-Augmented Generation (RAG)  
+
+---
+
+
+## 📊 GitHub Stats
+
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+-  Email: **guptasahilkumar783@gmail.com**
+-  LinkedIn: https://www.linkedin.com/in/sahil-gupta-904332293/
+-  Instagram: https://www.instagram.com/sa.hil_005/
