@@ -15,7 +15,7 @@
 
 🌱 Actively learning more about **System Architecture, Operating Systems, DevOps workflows**, and building **scalable, production-ready backends**.
 
-🏆 **Codeforces Expert (1840+)** | **CodeChef 4★ (1890+)**
+🏆 **Codeforces Expert (1840+)** | **CodeChef 4★ (1930+)**
 
 ---
 
