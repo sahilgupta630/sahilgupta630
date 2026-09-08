@@ -14,8 +14,8 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
 
 - 🔭 I’m currently building **AI-driven applications**, **RAG systems**, and **scalable backend services**.
 - 🧠 Deeply interested in **Generative AI**, **System Architecture**, and large-scale **Web Applications**.
-- 🏆 Active Competitive Programmer: **Candidate Master** @ Codeforces | **4★ Coder** @ CodeChef.
-- 🌱 Actively exploring advanced **DevOps workflows**, **Vector Databases**, and **Cloud Computing**.
+- 🏆 Active Competitive Programmer: **Expert** @ Codeforces | **4★ Coder** @ CodeChef.
+- 🌱 Actively exploring advanced **DevOps workflows**, and **Cloud Computing**.
 - 🤝 Open for collaborations on **RAG-based assistants**, **Full-Stack Web Apps**, or **Competitive Programming tools**.
 
 ---
@@ -31,7 +31,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 ### 🌐 Frontend Development
@@ -44,7 +43,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="ShadCN UI" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
