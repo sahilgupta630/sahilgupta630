@@ -131,12 +131,25 @@ I am a **Software Developer** and **AI/ML enthusiast** currently pursuing a **B.
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta630&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub stats" height="192px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta630&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Streak" height="192px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sahilgupta630&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Sahil's GitHub Stats"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta630&theme=tokyonight&hide_border=true"
+    alt="Sahil's GitHub Streak"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta630&layout=compact&theme=tokyonight&hide_border=true" alt="Sahil's Top Languages" height="195px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta630&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Sahil's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
