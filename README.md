@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/sahilgupta630">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Generative+AI+%26+ML+Engineer;Competitive+Programmer;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=50&lines=Software+Developer;Generative+AI%2FML+%26+Data+Enthusiast;Backend+%26+Full-Stack+Developer;Competitive+Programmer;Building+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,13 +10,14 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing a **B.Tech (Hons.) in Mechanical Engineering** with a **Minor in Computer Science** & **Micro Specialization in AI** at **IIT Kharagpur**. My expertise lies at the intersection of scalable software architecture and intelligent system design.
+I am a **Software Developer** and **AI/ML enthusiast** currently pursuing a **B.Tech (Hons.) in Mechanical Engineering** with a **Minor in Computer Science & Engineering** at **IIT Kharagpur** & **Micro Specialization in AI** at **IIT Kharagpur**. I am interested in building **scalable software systems, backend services, full-stack applications, and AI-powered solutions**.
 
-- 🔭 I’m currently building **AI-driven applications**, **RAG systems**, and **scalable backend services**.
-- 🧠 Deeply interested in **Generative AI**, **System Architecture**, and large-scale **Web Applications**.
+- 🔭 Currently building **AI-driven applications**, **RAG systems**, and **scalable backend services**.
+- 💻 Interested in **Software Development, Backend Engineering, and Full-Stack Development**.
+- 🤖 Exploring and building in **AI/ML, Generative AI, RAG, and intelligent systems**.
+- 🏗️ Experience with **REST APIs, databases, Docker, cloud deployment, and AI-powered applications**.
 - 🏆 Active Competitive Programmer: **Expert** @ Codeforces | **4★ Coder** @ CodeChef.
-- 🌱 Actively exploring advanced **DevOps workflows**, and **Cloud Computing**.
-- 🤝 Open for collaborations on **RAG-based assistants**, **Full-Stack Web Apps**, or **Competitive Programming tools**.
+- 🚀 Open to opportunities in **Software Development, AI/ML, and Data-related roles**.
 
 ---
 
@@ -82,7 +83,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-44B78B?style=flat-square&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/FAISS-1C3C3C?style=flat-square&logoColor=white" alt="FAISS" />
   <img src="https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat-square&logoColor=white" alt="ChromaDB" />
@@ -97,10 +97,11 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -108,7 +109,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Desktop" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
@@ -124,8 +124,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** currently pursuing
   <img src="https://img.shields.io/badge/DBMS-20232a?style=flat-square" alt="DBMS" />
   <img src="https://img.shields.io/badge/Computer_Networks-20232a?style=flat-square" alt="Computer Networks" />
   <img src="https://img.shields.io/badge/System_Design-20232a?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/Low--Level_Design-20232a?style=flat-square" alt="Low-Level Design" />
-  <img src="https://img.shields.io/badge/High--Level_Design-20232a?style=flat-square" alt="High-Level Design" />
 </p>
 
 ---
